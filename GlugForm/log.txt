@@ -1,0 +1,4 @@
+1|Ashwin M S|CSE|1cr17cs024|ashwin.mirskar@gmail.com
+2|hgknj|ME|1CR17ME028|dd@f.com
+3|M S|ISE|1231|2e@we.com
+4|as|CSE|231|ashwin.mirskar@gmail.com

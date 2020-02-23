@@ -1,0 +1,1 @@
+sqlite3 db.sqlite3 "select * from EventForm_person" > log.txt
